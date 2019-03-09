@@ -1,0 +1,93 @@
+body{
+  background: #9692af;
+  color: #223843;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+h1{
+  font-family: 'Oswald', sans-serif;
+  color: #02020A;
+  font-weight: lighter;
+  font-size: 10px;
+  margin-bottom: 5%;
+}
+h2 {
+  font-family: 'Oswald', sans-serif;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: #B497D6;
+}
+a:hover {
+  text-decoration: none;
+  color: #ffba5a;
+}
+#banner {
+  background-image: url("images/tesla-cat.jpg");
+  background-size: cover;
+  padding: 200px;
+  margin: 7px;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("images/tesla-cat.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: #02020A;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: #C6D2ED;
+  font-size: 50px;
+}
+#banner p {
+  color: #A690A4;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+#footer a {
+  color: #d2c8c8;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: #a5aeff;
+}
+#footer {
+  text-align: center;
+  color: #c6cfff;
+}
+
+
+ .button {
+   text-align: center;
+   color: #b55400;
+
+ }
+ .coffee-button {
+  text-align: center;
+  padding: 10%;
+  color: #b55400;
+
+ }
+ .card h2 {
+  color: #2b3595;
+  font-size: 10px;
+ }
+
+ .button a: hover {
+  color: #a5aeff;
+ }
+ 
